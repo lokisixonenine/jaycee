@@ -28,13 +28,17 @@ p {
 /* Containers */
 
 .container-fluid{
-  padding: 7% 15%;
+  padding: 5% 15%;
+}
+
+.container-fluid2 {
+  padding: 10% 15%;
 }
 
 /* Sections */
 
 .colored-section {
-  background-color: #00416d;
+  background-color: black;
   color: #fff;
 }
 
@@ -70,9 +74,12 @@ p {
 }
 
 /* Title Section */
+.logoSize {
+  width: 75%;
+}
 
 #title {
-  background-color: #00416d;
+  background-color: black;
   color: #fff;
   text-align: left;
 }
@@ -85,12 +92,14 @@ p {
 
 .title-image {
   width: 60%;
-  transform: rotate(25deg);
   position: absolute;
-  right: 30%;
+  right: 5%;
 }
 
 /* Features Section */
+.container-fluid1 {
+  padding: 1% 15%;
+}
 
 #features {
   position: relative;
@@ -110,7 +119,7 @@ p {
 }
 
 .icon:hover {
-  color: #00416d;
+  color: black;
 }
 
 /* Testimonial Section */
@@ -143,7 +152,7 @@ p {
 
 /* Pricing Section */
 
-#pricing {
+#features {
   padding: 100px;
 }
 
@@ -174,6 +183,5 @@ p {
 
   .title-image {
     position: static;
-    transform: rotate(0);
   }
 }
