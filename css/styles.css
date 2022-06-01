@@ -12,10 +12,6 @@ p {
   color: #8f8f8f;
 }
 
-.carousel-text {
-  color: #fffff;
-}
-
 /* Headings */
 
 .big-heading {
@@ -119,7 +115,7 @@ p {
 /* Portfolio */
 
 #portfolio {
-  background-color: #ef8172;
+  background-color: #ff4c68;
 }
 
 .portfolio-text {
