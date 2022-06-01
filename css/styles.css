@@ -144,8 +144,12 @@ p {
   padding: 3% 2%;
 }
 
-/* Resume Section */
-
+.carousel-p {
+  font-size: 1.2rem;
+  font-family: "Montserrat";  
+  padding: 3% 2%;
+  color: white;
+}
 
 /* Footer Section */
 
