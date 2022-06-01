@@ -129,6 +129,12 @@ p {
   margin: 20px;
 }
 
+.portfolio-text2 {
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+
 /* Projects Section */
 
 #projects {
