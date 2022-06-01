@@ -12,6 +12,10 @@ p {
   color: #8f8f8f;
 }
 
+.p-carousel {
+  color: #fffff;
+}
+
 /* Headings */
 
 .big-heading {
@@ -127,10 +131,6 @@ p {
   width: 20%;
   border-radius: 20%;
   margin: 20px;
-}
-
-.em-color {
-  color: #FFFFFF;
 }
 
 /* Projects Section */
